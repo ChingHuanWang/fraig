@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_set": "cpp",
+        "algorithm": "cpp",
+        "complex": "cpp",
+        "new": "cpp",
+        "functional": "cpp",
+        "any": "cpp",
+        "coroutine": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "memory_resource": "cpp",
+        "mutex": "cpp",
+        "optional": "cpp",
+        "ranges": "cpp"
+    }
+}
